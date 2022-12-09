@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Raphael Perrin
+- 👀 I’m interested in CI/CD, automate things !
+- 🌱 I’m currently learning github Actions :)
+- 📫 How to reach me, heard about homing pigeon ?
